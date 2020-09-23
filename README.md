@@ -1,4 +1,4 @@
-# my-website_
+# my_website
 
 *italics*
 
